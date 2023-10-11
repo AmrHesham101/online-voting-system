@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "AceAmr",
+    "DB_PASSWORD": "4253994Ace",
+    "DB_NAME": "online-vote-system",
+    "JWT_KEY": "private_key_for_token"
+  }
+}
