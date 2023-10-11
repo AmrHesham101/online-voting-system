@@ -1,0 +1,39 @@
+/* styles.css */
+
+/* Style for the star icons */
+.star-icon {
+    height: 1.25rem;
+    width: 1.25rem;
+    fill: #f6f63b; /* Blue color for filled stars */
+  }
+  
+  /* Style for empty star icons */
+  .empty-star-icon {
+    height: 1.25rem;
+    width: 1.25rem;
+    fill: #d1d5db; /* Gray color for empty stars */
+  }
+  
+  /* Style for the text and dropdown icon */
+  .rating-container {
+
+    color: #f6f63b; /* Blue color for text */
+    text-decoration: none;
+    cursor: pointer;
+    margin: auto;
+  }
+  
+  /* Style for the reviews link */
+  .reviews-link {
+    display: flex;
+    color: inherit; /* Inherit the color from the container */
+    text-decoration: none;
+  }
+  
+  /* Style for the reviews icon */
+  .chevron-icon {
+    height: 1.25rem;
+    width: 1.25rem;
+    margin-left: 0.25rem;
+  }
+  
